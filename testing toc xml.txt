@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ASCII"?>
+<book abbr="br10nn08h" name="Brown: Brown | 9780357021705 | DTJ Assessment Final | CNOW/Auto-Graded, 8e" product="Homework" discipline="nutr" ISBNs="9780357021651;" format="1.00.0000" assignment-type="0">
+  <section name="Chapter 03 DTJ Assessment Final" id="117424976" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch03.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch03.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch03.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch03.04.xml"/>
+  </section>
+  <section name="Chapter 04 DTJ Assessment Final" id="581239309" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.05.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.06.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.07.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch04.08.xml"/>
+  </section>
+  <section name="Chapter 10.1 DTJ Assessment Final" id="494915792" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-1.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-1.05.xml"/>
+  </section>
+  <section name="Chapter 10.2 DTJ Assessment Final" id="145034077" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch10-2.04.xml"/>
+  </section>
+  <section name="Chapter 12 DTJ Assessment Final" id="462772958" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.05.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.06.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.07.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.08.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch12.09.xml"/>
+  </section>
+  <section name="Chapter 15.1 DTJ Assessment Final" id="786141501" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-1.04.xml"/>
+  </section>
+  <section name="Chapter 15.2 DTJ Assessment Final" id="30884366" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch15-2.04.xml"/>
+  </section>
+  <section name="Chapter 18.1 DTJ Assessment Final" id="296147774" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-1.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-1.05.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-1.06.xml"/>
+  </section>
+  <section name="Chapter 18.2 DTJ Assessment Final" id="241420491" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-2.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch18-2.05.xml"/>
+  </section>
+  <section name="Chapter 23.1 DTJ Assessment Final" id="500228411" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-1.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-1.05.xml"/>
+  </section>
+  <section name="Chapter 23.2 DTJ Assessment Final" id="290766398" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-2.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-2.05.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch23-2.06.xml"/>
+  </section>
+  <section name="Chapter 24.1 DTJ Assessment Final" id="807511863" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-1.04.xml"/>
+  </section>
+  <section name="Chapter 24.2 DTJ Assessment Final" id="647783025" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch24-2.04.xml"/>
+  </section>
+  <section name="Chapter 29.1 DTJ Assessment Final" id="566258451" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-1.04.xml"/>
+  </section>
+  <section name="Chapter 29.2 DTJ Assessment Final" id="787005407" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch29-2.04.xml"/>
+  </section>
+  <section name="Chapter 30.1 DTJ Assessment Final" id="601430068" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-1.04.xml"/>
+  </section>
+  <section name="Chapter 30.2 DTJ Assessment Final" id="542635117" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch30-2.04.xml"/>
+  </section>
+  <section name="Chapter 31.1 DTJ Assessment Final" id="414233861" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-1.04.xml"/>
+  </section>
+  <section name="Chapter 31.2 DTJ Assessment Final" id="998948251" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch31-2.04.xml"/>
+  </section>
+  <section name="Chapter 32.1 DTJ Assessment Final" id="115586506" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.04.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.05.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.06.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.07.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch32-1.08.xml"/>
+  </section>
+  <section name="Chapter 33.1 DTJ Assessment Final" id="743519405" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-1.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-1.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-1.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-1.04.xml"/>
+  </section>
+  <section name="Chapter 33.2 DTJ Assessment Final" id="798907618" type="lesson">
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-2.01.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-2.02.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-2.03.xml"/>
+    <item-ref href="/geyser/nutr/items/br10nn08h/br10nn08h.Ch33-2.04.xml"/>
+  </section>
+</book>
+
